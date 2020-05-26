@@ -1,4 +1,4 @@
-# GPU_setup
+# GPU setup
 
 Steps to install TF with GPU capabilities and be able to run convnets on GPU in Python (at least).
 
